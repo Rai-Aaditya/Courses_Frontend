@@ -1,0 +1,61 @@
+
+.lsInstContainer {
+    width: 100%;
+  }
+  
+  .lsInstContainer table {
+    margin: auto;
+    width: 99%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .lsInstContainer thead {
+    background-color: #5A80FB; /* Primary blue color */
+    color: white;
+  }
+  
+  .lsInstContainer th,
+  .lsInstContainer td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* Striped rows with normal and secondary background colors */
+  .lsInstContainer tbody tr:nth-child(odd) {
+    background-color: #f2f2f2; /* Normal background color */
+  }
+  
+  .lsInstContainer tbody tr:nth-child(even) {
+    background-color: #e2e2e2; /* Secondary background color */
+  }
+  
+  /* Custom column widths */
+  .lsInstContainer th:nth-child(1),
+  .lsInstContainer td:nth-child(1) {
+    width: 25%; /* Adjust as needed */
+  }
+  
+  .lsInstContainer th:nth-child(2),
+  .lsInstContainer td:nth-child(2),
+  .lsInstContainer th:nth-child(3),
+  .lsInstContainer td:nth-child(3) {
+    width: 25%; /* Adjust as needed */
+  }
+
+
+  .lsInstContainer{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .button{
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  

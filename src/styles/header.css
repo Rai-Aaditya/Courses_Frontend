@@ -1,0 +1,14 @@
+/* In a CSS file (e.g., App.css) */
+.no-text-decoration {
+
+    text-decoration: none !important;
+  }
+  
+  .no-text-decoration:hover {
+    color: white; /* Change text color to white on hover */
+  }
+  
+  .btngrp > a:not(:last-child) {
+    margin-right: 5px;
+  }
+  

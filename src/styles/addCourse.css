@@ -1,0 +1,17 @@
+.crtCrsContainer {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    /* Horizontal centering */
+    align-items: center;
+    /* Vertical centering */
+    height: 100vh;
+}
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    width: 30vw;
+}
