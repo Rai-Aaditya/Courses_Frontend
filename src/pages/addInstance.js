@@ -52,10 +52,10 @@ function AddInstance() {
       setYear('');
       setSemester('');
       setSelectedCourse('');
+      window.location.reload();
     } catch (error) {
       console.error('Error adding instance:', error);
     }
-    window.location.reload();
   };
 
   return (
