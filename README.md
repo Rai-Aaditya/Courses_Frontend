@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# React Courses Management 📚
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the React Courses Management project! This web application helps you manage courses and their instances with ease.
 
-## Available Scripts
+## Technologies Used 🛠️
 
-In the project directory, you can run:
+- **React:** A JavaScript library for building user interfaces.
+- **React Bootstrap:** A popular UI framework for React applications.
+- **React Router DOM:** For handling routing within the application.
+- **Axios:** A promise-based HTTP client for making API requests.
+- **Bootstrap:** A CSS framework for responsive design.
+- **Testing Library:** For testing components (Jest, user-event, and DOM).
+- **Web Vitals:** Helps you measure real-world user experiences.
 
-### `npm start`
+## Getting Started 🏁
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Follow these steps to get the project up and running locally:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Start the development server with `npm start`.
 
-### `npm test`
+## Usage 💡
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- To add a new course, click on the "Add Course" button and fill in the required details.
+![image](https://github.com/Rai-Aaditya/Courses_Frontend/assets/101923897/67e7122d-e1df-49da-a5f0-bed6e9c52337)
 
-### `npm run build`
+- To view a list of all courses, click on the "List Courses" option.
+![image](https://github.com/Rai-Aaditya/Courses_Frontend/assets/101923897/9eccd6a5-582c-4214-a172-57906658043e)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- To create a new instance of a course, select the course, and provide the year and semester.
+![image](https://github.com/Rai-Aaditya/Courses_Frontend/assets/101923897/233d45e5-200b-4cf3-a3ee-50db4ade7c3e)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- To see a list of all course instances, click on the "List Instances" option.
+![image](https://github.com/Rai-Aaditya/Courses_Frontend/assets/101923897/8ad2243d-d6a0-4f93-a63c-e263b48c216d)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Contributing 🤝
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Contributions are welcome! If you'd like to contribute, please follow these guidelines:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License 📝
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Learn More
+## Contact 📬
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you have any questions or suggestions, feel free to reach out to us at [your_email@example.com].
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy coding! 🚀✨
